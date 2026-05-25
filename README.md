@@ -1,4 +1,4 @@
-👕 Data Augmentation for Fashion MNIST
+# 👕 Data Augmentation for Fashion MNIST
 
 A Deep Learning project demonstrating the implementation of **Data Augmentation** techniques and **Convolutional Neural Networks (CNNs)** for image classification using the Fashion MNIST dataset. The project focuses on improving model generalization and classification accuracy through augmented image generation and advanced training techniques.
 
